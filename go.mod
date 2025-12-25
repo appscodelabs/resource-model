@@ -28,7 +28,7 @@ require (
 	github.com/prometheus/procfs v0.0.6 // indirect
 	go.uber.org/atomic v1.5.0 // indirect
 	golang.org/x/net v0.0.0-20191112182307-2180aed22343 // indirect
-	golang.org/x/sys v0.0.0-20191113165036-4c7a9d0fe056 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	golang.org/x/time v0.0.0-20191024005414-555d28b269f0 // indirect
 	golang.org/x/tools v0.0.0-20191125144606-a911d9008d1f // indirect
 	google.golang.org/appengine v1.6.5 // indirect
