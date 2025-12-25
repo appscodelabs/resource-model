@@ -12,7 +12,7 @@ require (
 	github.com/evanphx/json-patch v4.5.0+incompatible
 	github.com/go-openapi/spec v0.19.3
 	github.com/gogo/protobuf v1.3.1
-	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
+	github.com/golang/glog v1.2.4
 	github.com/golang/groupcache v0.0.0-20191027212112-611e8accdfc9 // indirect
 	github.com/google/gofuzz v1.1.0
 	github.com/googleapis/gnostic v0.3.1 // indirect
